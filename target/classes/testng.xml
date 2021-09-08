@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+	<test name="Regression">
+		<classes>
+		<class name="com.inetbanking.qa.testcases.LoginPageTest"></class>
+		<class name="com.inetbanking.qa.testcases.PracticeFormPageTest"></class>
+		<class name="com.inetbanking.qa.testcases.ProfilePageTest"></class>
+		</classes>
+	</test>
+</suite>
