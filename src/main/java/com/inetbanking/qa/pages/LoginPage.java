@@ -47,4 +47,8 @@ public class LoginPage extends TestBase{
 		
 		return new ProfilePage();
 	}
+	
+	public void loginSetMethod() {
+		System.out.println("login method");
+	}
 }
